@@ -1,0 +1,19 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "create:bar_of_chocolate"
+      }
+    ],
+    "results": [
+      {
+        "item": "pamhc2foodcore:chocolatebaritem",
+        "count": 2
+      },
+      {
+        "item": "pamhc2foodcore:chocolatebaritem",
+        "chance": 0.5
+      }
+    ],
+    "processingTime": 20
+  }

@@ -1,0 +1,20 @@
+{
+  "type": "farmersrespite:brewing",
+  "ingredients": [
+    {
+      "tag": "farmersrespite:tea_leaves"
+    },
+    {
+      "item": "pamhc2foodextended:groundcinnamonitem"
+    }
+  ],
+  "result": {
+    "item": "pamhc2foodextended:chaiteaitem"
+  },
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "experience": 0.35,
+  "brewingtime": 2400,
+  "needwater": true
+}

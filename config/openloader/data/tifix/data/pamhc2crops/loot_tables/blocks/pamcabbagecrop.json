@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "name": "pamcabbagecrop0",
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "pamhc2crops:pamcabbagecrop",
+                  "properties": {
+                    "age": "7"
+                  }
+                }
+              ],
+              "name": "farmersdelight:cabbage"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "farmersdelight:cabbage_seeds"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "functions": [
+    {
+      "function": "minecraft:explosion_decay"
+    }
+  ]
+}

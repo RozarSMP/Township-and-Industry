@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+	{	
+      "tag": "forge:bread"
+    },
+	{	
+      "tag": "forge:rawpork"
+    },
+	{	
+      "tag": "forge:cheese"
+    }
+
+	],
+	
+	"result": {"item": "brewinandchewin:ham_and_cheese_sandwich",
+	"count": 1}
+	
+}

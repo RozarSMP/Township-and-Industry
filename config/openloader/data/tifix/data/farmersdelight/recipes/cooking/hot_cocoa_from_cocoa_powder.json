@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "drinks",
+  "ingredients": [
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "forge:cocoapowder"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:hot_cocoa"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

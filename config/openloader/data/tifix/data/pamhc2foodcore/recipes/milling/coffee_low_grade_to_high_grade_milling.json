@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "pamhc2crops:coffeebeanitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersrespite:coffee_beans",
+      "chance": 0.15
+    }
+  ],
+  "processingTime": 50
+}

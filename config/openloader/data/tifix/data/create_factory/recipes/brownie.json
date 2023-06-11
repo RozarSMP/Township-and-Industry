@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "create:chocolate",
+      "amount": 125
+    },
+    {
+      "item": "create_factory:cake_preparation"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_factory:brownie"
+    }
+  ],
+  "heatRequirement": "heated"
+}

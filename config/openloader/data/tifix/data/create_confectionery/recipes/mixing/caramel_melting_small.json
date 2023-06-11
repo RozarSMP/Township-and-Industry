@@ -1,0 +1,16 @@
+{
+  "group": "create_confectionery",
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:caramelitem"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_confectionery:caramel",
+      "amount": 100
+    }
+  ],
+  "heatRequirement": "heated"
+}

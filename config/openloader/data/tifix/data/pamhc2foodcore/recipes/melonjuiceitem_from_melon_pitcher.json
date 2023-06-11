@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "item": "farmersdelight:melon_juice"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:melonjuiceitem",
+	"count": 2}
+	
+}

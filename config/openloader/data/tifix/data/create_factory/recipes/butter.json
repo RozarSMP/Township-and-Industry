@@ -1,0 +1,14 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "create_factory:cream",
+        "amount": 250
+      }
+    ],
+    "results": [
+      {
+        "item": "pamhc2foodcore:butteritem"
+      }
+    ]
+  }

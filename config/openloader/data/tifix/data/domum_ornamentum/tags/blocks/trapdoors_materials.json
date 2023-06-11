@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#domum_ornamentum:default",
+    "#minecraft:planks",
+    "farmersdelight:straw_bale",
+
+    "create:ornate_iron_window"
+  ]
+}

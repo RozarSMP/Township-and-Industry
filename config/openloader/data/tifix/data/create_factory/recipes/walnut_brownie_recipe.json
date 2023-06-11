@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "create:chocolate",
+      "amount": 125
+    },
+    {
+      "item": "create_factory:cake_preparation"
+    },
+    {
+      "tag": "forge:nuts/walnut"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_factory:walnut_brownie"
+    }
+  ],
+  "heatRequirement": "heated"
+}

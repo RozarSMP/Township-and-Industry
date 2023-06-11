@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:cocoapowder"
+    },
+    {
+      "tag": "forge:flour"
+    },
+	{
+      "tag": "forge:egg"
+    },
+	{
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:chocolate"
+    }
+
+
+	],
+	
+	"result": {"item": "create_factory:brownie",
+	"count": 1}
+	
+}

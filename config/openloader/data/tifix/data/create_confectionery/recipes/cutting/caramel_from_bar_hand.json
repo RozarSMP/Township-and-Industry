@@ -1,0 +1,17 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "create_confectionery:bar_of_caramel"
+      }
+    ],
+    "tool": {
+      "tag": "forge:tools/knives"
+    },
+    "result": [
+      {
+        "item": "pamhc2foodcore:caramelitem",
+        "count": 2
+      }
+    ]
+  }
