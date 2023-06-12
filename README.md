@@ -2,4 +2,4 @@
 
 Township & Industry modpack
 
-Modlist/database: [Township and Industry Mod Database](https://fuschia-walkover-d33.notion.site/f8390f4c2b654bef91ab8ac503e5edf6?v=8c346b0cd32345cc9316d25f66eddf6e)
+Modlist/database: [Township and Industry Mod Database](https://fuschia-walkover-d33.notion.site/b5d4f75e7e2c41e299c02864d4e7cabc?v=79ec26bfc7474631a4a4f7a43df450c4&pvs=4)
