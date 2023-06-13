@@ -1,16 +1,12 @@
 # v3.4.1 - Immersive Consumption Part 2 (13 July 2023)
 this actually started as v3.2 but there were a bunch of changes and I couldn't be bothered splitting them into different versions so just have this big changelog
 
-## Common Mods
+## Mods
 ### Added
 - BYG Crates [0.7.0]
 - Chalk [1.4.2]
-- Cataclysm Boss Bar [1.0.1]
 - L_Ender's Cataclysm [0.51]
-- Lightspeed [1.0.2]
 - MmmMmmMmmMmm [1.5.2]
-- Ok Zoomer [1.1.1]
-- Traveler's Titles [2.1.1]
 - YUNG's API [2.2.9]
 ### Updated
 - Cold Sweat [2.2-b04a -> 2.2-b04d]
@@ -24,17 +20,27 @@ this actually started as v3.2 but there were a bunch of changes and I couldn't b
 - Farmer's Delight [1.2.0 -> 1.2.1]
 - Macaw's Trapdoors [1.0.9 -> 1.1.0]
 - Minecolonies [1.0.1329 -> 1.0.1428]
-- Rubidium [0.5.5 -> 0.5.6]
 - Supplementaries [1.5.16 -> 1.5.18]
 ### Removed
 - Create: Steam 'n' Rails
 - Flywheel
 
+## Client Mods
+### Added
+- Cataclysm Boss Bar [1.0.1]
+- ImmediatelyFast Reforged [1.1.10]
+- Lightspeed [1.0.2]
+- Ok Zoomer [1.1.1]
+- Traveler's Titles [2.1.1]
+### Updated
+- Rubidium [0.5.5 -> 0.5.6]
 
 ## Server Mods
 ### Added
 - Brutal Bosses [5.8]
 - Dungeon Crawl [2.3.12]
+- No Elytra Boosting [1.0.1]
+- Open Loader [12.0.1]
 ### Updated
 - Canary [0.1.6 -> 0.2.1]
 ### Removed
