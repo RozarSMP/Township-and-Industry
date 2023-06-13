@@ -1,7 +1,7 @@
 assets/
 bin/
-defaultconfigs/
 libraries/
+lightspeed-cache/
 logs/
 resourcepacks/
 saves/
@@ -9,7 +9,7 @@ schematics/
 screenshots/
 shaderpacks/
 structurize/
-versions/
+version/
 webcache2/
 Xaero*/
 
