@@ -60,15 +60,16 @@ this actually started as v3.2 but there were a bunch of changes and I couldn't b
 
 
 ## Scripts
-`pamsdelight.zs` - integration between Farmer's Delight and Pam's Harvestcraft, more info here: [Pam's Delight](https://github.com/RozarSMP/Township-and-Industry/wiki/Pam's-Delight)
+**pamsdelight.zs**
+- integration between Farmer's Delight and Pam's Harvestcraft, more info here: [Pam's Delight](https://github.com/RozarSMP/Township-and-Industry/wiki/Pam's-Delight)
+- also removed Create: Things & Misc knives
 
 
 ## Datapack
-- Township & Industry Fixes [revivalfix1.0 -> tifix] (in - house)
-  + some integration for Pam's Harvestcraft and other parts of the modpack
-  + Tree Bark can now be stripped from Oh The Biomes You'll Go blocks
-  + removed Create: Things & Misc knives
-  + Minecolonist cooks can no longer create flour or dough, but Bakers can now make pam's dough, cocoa powder, and raw pasta
+**Township & Industry Fixes [revivalfix1.0 -> tifix]**
++ some integration for Pam's Harvestcraft and other parts of the modpack
++ Tree Bark can now be stripped from Oh The Biomes You'll Go blocks
++ Minecolonist cooks can no longer create flour or dough, but Bakers can now make pam's dough, cocoa powder, and raw pasta
 
 
 ## Other
