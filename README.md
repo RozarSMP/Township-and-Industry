@@ -1,3 +1,4 @@
+![Township and Industry Image](icon.png) 
 # Township & Industry
 
 Township & Industry modpack
