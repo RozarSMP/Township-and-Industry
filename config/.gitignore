@@ -37,6 +37,8 @@ ferritecore-mixin.toml
 fml.toml
 forge-common.toml
 
+immediatelyfast.json
+
 jade-addons.toml
 
 limitedchunks-common.toml
