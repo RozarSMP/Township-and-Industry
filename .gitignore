@@ -1,5 +1,6 @@
 assets/
 bin/
+crash-reports/
 libraries/
 lightspeed-cache/
 logs/
