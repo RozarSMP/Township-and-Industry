@@ -1,3 +1,12 @@
+# v3.5.0
+
+## Mods
+### Added
+- [Create: Steam 'n Rails](https://modrinth.com/mod/create-steam-n-rails/version/1.3.5-forge-1.18.2) \[1.3.5\]
+### Updated
+- [Cold Sweat](https://legacy.curseforge.com/minecraft/mc-mods/cold-sweat/files/4591600) \[2.2-b04f\]
+
+
 # v3.4.1 - Immersive Consumption Part 2 (13 July 2023)
 this actually started as v3.2 but there were a bunch of changes and I couldn't be bothered splitting them into different versions so just have this big changelog
 
